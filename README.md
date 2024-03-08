@@ -1,8 +1,11 @@
-# React + Vite
+This website offers a user-friendly and visually captivating experience powered by React, React Bootstrap, and React Router.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
 
-Currently, two official plugins are available:
+Simple Navigation: A clean and organized menu allows you to easily find your desired treat: Home and Contacts in an Nav.
+Contact Us: Find our contact information for inquiries or to place phone orders.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies:
+React: Framework for creating interactive user interfaces.
+React Bootstrap: Library of React components based on Bootstrap.
+React Router: Library for managing routing in React applications.
